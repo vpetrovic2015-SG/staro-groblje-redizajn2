@@ -1,0 +1,17 @@
+DOPUNA SAJTA STAROG GROBLJA – FOTOGRAFIJE
+
+Ovaj paket sadrži postojeći sajt iz verzije sa uvodom, dopunjenu bazu podataka i fotografije koje su trenutno dostavljene.
+
+Sadržaj:
+- data/licnosti.json – putanje portreta i fotografija grobnih mesta povezane sa odgovarajućim zapisima kada je identitet dovoljno jasan;
+- assets/licnosti/ – portreti;
+- assets/grobna-mesta/ – fotografije grobnih mesta;
+- app.js i styles.css – prikaz fotografije grobnog mesta u biografiji.
+
+VAŽNO:
+1. Pre zamene na GitHub-u sačuvajte kopiju trenutnog repozitorijuma.
+2. Otpakujte ZIP i prenesite/zamenite fajlove zadržavajući istu strukturu foldera.
+3. Fotografije grobnih mesta Petra Мартића, Петровића и Симе Бркића су приложене, али нису аутоматски повезане са биографијама јер у постојећој бази није било довољно сигурног поклапања.
+4. Дупликатни портрет Михаила Крстића је сачуван у assets/licnosti/, али је први постављен као главни портрет.
+5. Први војни портрет није додељен ниједној личности јер идентитет није потврђен.
+6. Биографије нису преписиване нити прошириване; пакет додаје само фотографије и приказ гробне фотографије.
