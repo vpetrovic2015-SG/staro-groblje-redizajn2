@@ -6,6 +6,18 @@
   <link rel="manifest" href="manifest.json"><link rel="icon" href="assets/icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <title>Staro groblje Požarevac | Digitalni vodič</title>
+
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+  <style>
+    .grave-model-wrap{width:min(100% - 2rem,1100px);margin:2rem auto 2.5rem;padding:1rem;background:#f7f3e9;border:1px solid #d8c8a0;border-radius:18px;box-shadow:0 12px 35px rgba(0,0,0,.12);color:#282820}
+    .grave-model-heading{margin:0 0 .35rem;font-size:clamp(1.25rem,2.5vw,1.8rem);color:#4b402b}
+    .grave-model-intro{margin:0 0 1rem;line-height:1.6}
+    .grave-model-viewer{display:block;width:100%;height:clamp(340px,58vw,620px);background:radial-gradient(ellipse at center,#f1ecdf 0%,#ddd5c3 100%);border-radius:12px;overflow:hidden;--poster-color:transparent}
+    .grave-model-hint{margin:.75rem 0 0;font-size:.92rem;color:#615b50}
+    .grave-model-viewer::part(default-progress-bar){background:#b18a42}
+    @media(max-width:600px){.grave-model-wrap{width:auto;margin:1.25rem 1rem;padding:.75rem}.grave-model-viewer{height:420px}}
+  </style>
+
 </head>
 <body>
 <header class="site-header"><div class="header-inner">
@@ -89,7 +101,17 @@
     </div>
     <div id="map" role="application" aria-label="Интерактивна мапа Старог гробља"></div><p class="map-note" data-sr="Координате су унете на основу достављених података и треба их проверити на терену. Подлога: © OpenStreetMap contributors." data-lat="Koordinate su unete na osnovu dostavljenih podataka i treba ih proveriti na terenu. Podloga: © OpenStreetMap contributors.">Координате су унете на основу достављених података и треба их проверити на терену. Подлога: © OpenStreetMap contributors.</p></section>
   <section id="threeDSection" class="three-d-section">
-    <div class="three-d-copy"><p class="eyebrow" data-sr="У ПРИПРЕМИ" data-lat="U PRIPREMI">У ПРИПРЕМИ</p><h2 data-sr="Споменици у три димензије." data-lat="Spomenici u tri dimenzije.">Споменици у три димензије.</h2><p data-sr="Следећа фаза водича доноси интерактивне 3D моделе гробних места, израђене на основу фотографија и повезане са биографијама и мапом." data-lat="Sledeća faza vodiča donosi interaktivne 3D modele grobnih mesta, izrađene na osnovu fotografija i povezane sa biografijama i mapom.">Следећа фаза водича доноси интерактивне 3D моделе гробних места, израђене на основу фотографија и повезане са биографијама и мапом.</p></div>
+    <span id="3d-prikaz" aria-hidden="true"></span>
+    <div class="three-d-copy"><p class="eyebrow" data-sr="ПРОБНИ 3D ПРИКАЗ" data-lat="PROBNI 3D PRIKAZ">ПРОБНИ 3D ПРИКАЗ</p><h2 data-sr="Споменици у три димензије." data-lat="Spomenici u tri dimenzije.">Споменици у три димензије.</h2><p data-sr="Први интерактивни модел на овој страници је 3D приказ гробнице Игњата Тодоровића. Модел можете да окрећете и увећавате." data-lat="Prvi interaktivni model na ovoj stranici je 3D prikaz grobnice Ignjata Todorovića. Model možete da okrećete i uvećavate.">Први интерактивни модел на овој страници је 3D приказ гробнице Игњата Тодоровића. Модел можете да окрећете и увећавате.</p></div>
+    <div class="grave-model-wrap">
+      <h3 class="grave-model-heading" data-sr="Гробница Игњата Тодоровића" data-lat="Grobnica Ignjata Todorovića">Гробница Игњата Тодоровића</h3>
+      <p class="grave-model-intro" data-sr="Превуците мишем или прстом да окрећете модел. Користите точкић миша или два прста за увећавање." data-lat="Prevucite mišem ili prstom da okrećete model. Koristite točkić miša ili dva prsta za uvećavanje.">Превуците мишем или прстом да окрећете модел. Користите точкић миша или два прста за увећавање.</p>
+      <model-viewer class="grave-model-viewer" src="assets/3d/ignjat-todorovic.glb" alt="Интерактивни 3D модел гробнице Игњата Тодоровића" camera-controls touch-action="pan-y" shadow-intensity="1" exposure="1" environment-image="neutral" interaction-prompt="auto" loading="eager" ar>
+        <div slot="progress-bar" style="display:none"></div>
+        <p slot="error" style="padding:1.5rem">3D модел није могао да се учита. Проверите да ли је датотека постављена на assets/3d/ignjat-todorovic.glb.</p>
+      </model-viewer>
+      <p class="grave-model-hint" data-sr="Напомена: ово је дигитални 3D модел. Приказ на екрану може да се разликује у зависности од уређаја." data-lat="Napomena: ovo je digitalni 3D model. Prikaz na ekranu može da se razlikuje u zavisnosti od uređaja.">Напомена: ово је дигитални 3D модел. Приказ на екрану може да се разликује у зависности од уређаја.</p>
+    </div>
     <div class="three-d-features"><div><span>◇</span><strong data-sr="Преглед из свих углова" data-lat="Pregled iz svih uglova">Преглед из свих углова</strong><small data-sr="Ротирање и увећавање модела" data-lat="Rotiranje i uvećavanje modela">Ротирање и увећавање модела</small></div><div><span>⌖</span><strong data-sr="Повезано са мапом" data-lat="Povezano sa mapom">Повезано са мапом</strong><small data-sr="Лакше проналажење гроба" data-lat="Lakše pronalaženje groba">Лакше проналажење гроба</small></div><div><span>▧</span><strong data-sr="Фотографије и биографије" data-lat="Fotografije i biografije">Фотографије и биографије</strong><small data-sr="Све информације на једном месту" data-lat="Sve informacije na jednom mestu">Све информације на једном месту</small></div></div>
   </section>
   <section class="about"><div><p class="eyebrow dark" data-sr="О ПРОЈЕКТУ" data-lat="O PROJEKTU">О ПРОЈЕКТУ</p><h2 data-sr="Сећање доступно свима." data-lat="Sećanje dostupno svima.">Сећање доступно свима.</h2></div><p data-sr="Овај дигитални водич замишљен је као бесплатна јавна ризница локалне историје. База је отворена за постепено допуњавање биографијама, фотографијама и провереним изворима." data-lat="Ovaj digitalni vodič zamišljen je kao besplatna javna riznica lokalne istorije. Baza je otvorena za postepeno dopunjavanje biografijama, fotografijama i proverenim izvorima.">Овај дигитални водич замишљен је као бесплатна јавна ризница локалне историје. База је отворена за постепено допуњавање биографијама, фотографијама и провереним изворима.</p></section>
