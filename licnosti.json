@@ -12,12 +12,10 @@
     "izvori": "Početni biografski tekst: dostavljena stranica; proveriti dodatne izvore pre javnog objavljivanja.",
     "lat": 44.63042,
     "lon": 21.178519,
-    "fotografija": "assets/licnosti/zivka-matic.jpg",
+    "fotografija": "",
     "parcela": "7",
-    "kategorije": [
-      "umetnici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "stojan-stojancic-pavlovic",
@@ -34,11 +32,8 @@
     "lon": 21.178491,
     "izvori": "Tekst dostavio korisnik; istorijske navode i datume proveriti prema pouzdanim izvorima.",
     "fotografija": "assets/licnosti/stojan-stojancic-pavlovic.jpg",
-    "kategorije": [
-      "politicari",
-      "privrednici"
-    ],
-    "fotografija_groba": "assets/grobna-mesta/Pavlovic-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/stojan-stojancic-pavlovic-grob.jpg",
+    "napomena_fotografije": ""
   },
   {
     "id": "dimitrije-mita-sapinac",
@@ -55,10 +50,8 @@
     "lon": 21.179434,
     "izvori": "Tekst dostavio korisnik; navode o drugim članovima porodice i vojnoj karijeri proveriti u istorijskim izvorima.",
     "fotografija": "assets/licnosti/dimitrije-mita-sapinac.jpg",
-    "kategorije": [
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "ignjat-todorovic",
@@ -75,11 +68,8 @@
     "lon": 21.180238,
     "izvori": "Текст доставио корисник; историјске податке проверити према поузданим изворима.",
     "fotografija": "assets/licnosti/ignjat-todorovic.jpg",
-    "fotografija_groba": "assets/grobna-mesta/Ignjat-Todorovic-grob.jpeg",
-    "kategorije": [
-      "politicari",
-      "privrednici"
-    ]
+    "fotografija_groba": "assets/grobna-mesta/ignjat-todorovic-grob.jpg",
+    "napomena_fotografije": ""
   },
   {
     "id": "sava-a-jovanovic",
@@ -96,11 +86,8 @@
     "lon": 21.180801,
     "izvori": "Текст доставио корисник; историјске наводе проверити према поузданим изворима.",
     "fotografija": "assets/licnosti/sava-a-jovanovic.jpg",
-    "kategorije": [
-      "politicari",
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "vasa-pelagic",
@@ -118,11 +105,8 @@
     "izvori": "Текст доставио корисник; датум и место рођења, школовање и податке о сахрани проверити у поузданим изворима.",
     "fotografija": "assets/licnosti/vasa-pelagic.jpg",
     "napomena": "У достављеном тексту појављују се различите године рођења (1833. и 1838); проверити меродаван биографски извор пре јавног објављивања.",
-    "kategorije": [
-      "umetnici",
-      "prosvetni"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "josif-a-cecelski",
@@ -140,11 +124,8 @@
     "izvori": "Текст доставио корисник; историјске наводе, укључујући оснивање штедионице и локацију млина, проверити у поузданим изворима.",
     "fotografija": "assets/licnosti/josif-a-cecelski.jpg",
     "napomena": "Биографија је језички уређена на основу достављеног текста; проверити све историјске податке пре јавног објављивања.",
-    "kategorije": [
-      "dobrotvori",
-      "privrednici"
-    ],
-    "fotografija_groba": "assets/grobna-mesta/Cecelski-grob.jpeg"
+    "fotografija_groba": "",
+    "napomena_fotografije": "Портрет повезан према мапирању фотографија; фотографија гробнице из одељка има натпис породична гробница Николић и није аутоматски повезана."
   },
   {
     "id": "dusan-vujicic",
@@ -161,10 +142,8 @@
     "lon": 21.179588,
     "fotografija": "",
     "parcela": "5",
-    "kategorije": [
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "jovan-jovanovic-joska-bankarce",
@@ -181,11 +160,8 @@
     "lon": 21.178861,
     "fotografija": "",
     "parcela": "6",
-    "kategorije": [
-      "politicari",
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "mihailo-dusmanic",
@@ -200,14 +176,10 @@
     "izvori": "Текст доставио корисник; проверити биографске податке, функције и породичне детаље у поузданим историјским изворима.",
     "lat": 44.629546,
     "lon": 21.18067,
-    "fotografija": "assets/licnosti/mihailo-dusmanic.jpg",
+    "fotografija": "assets/licnosti/mihajlo-dusmanic.jpg",
     "parcela": "2",
-    "kategorije": [
-      "politicari",
-      "lekari",
-      "privrednici"
-    ],
-    "fotografija_groba": "assets/grobna-mesta/Dusmanic-grob.jpeg"
+    "fotografija_groba": "assets/grobna-mesta/mihajlo-dusmanic-grob.jpg",
+    "napomena_fotografije": ""
   },
   {
     "id": "miomir-mica-ilic",
@@ -224,11 +196,8 @@
     "lon": 21.180745,
     "izvori": "Biografske podatke dostavio korisnik; potrebno je proveriti prema dostupnim arhivskim i javnim izvorima.",
     "fotografija": "",
-    "kategorije": [
-      "politicari",
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "branko-ivosevic",
@@ -244,12 +213,9 @@
     "lat": 44.62998,
     "lon": 21.179986,
     "izvori": "Biografske podatke dostavio korisnik; pojedine istorijske navode potrebno je proveriti u arhivskoj građi.",
-    "fotografija": "assets/licnosti/branko-ivosevic.jpg",
-    "kategorije": [
-      "advokati",
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija": "",
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "dr-nikola-hadzi-nikolic",
@@ -266,10 +232,8 @@
     "lon": 21.180724,
     "izvori": "Biografske podatke dostavio korisnik; pojedine istorijske navode, naročito anegdotu o kraljici Dragi Mašin, potrebno je proveriti u istorijskim izvorima.",
     "fotografija": "assets/licnosti/dr-nikola-hadzi-nikolic.jpg",
-    "kategorije": [
-      "lekari"
-    ],
-    "fotografija_groba": "assets/grobna-mesta/Hadzi-Nikolic-grob.jpeg"
+    "fotografija_groba": "",
+    "napomena_fotografije": "Портрет повезан према мапирању фотографија; фотографија породичне гробнице Николић није аутоматски повезана док се не потврди."
   },
   {
     "id": "milutin-obradovic",
@@ -287,11 +251,8 @@
     "izvori": "Биографски текст и подаци о гробном месту достављени од корисника.",
     "fotografija": "assets/licnosti/milutin-obradovic.jpg",
     "napomena": "Човек великог срца",
-    "kategorije": [
-      "dobrotvori",
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "mihailo-krstic",
@@ -308,12 +269,8 @@
     "lon": 21.17908,
     "izvori": "Биографски текст и подаци о гробном месту достављени од корисника.",
     "fotografija": "assets/licnosti/mihailo-krstic.jpg",
-    "kategorije": [
-      "advokati",
-      "oficiri",
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "zivorad-zika-petrovic",
@@ -330,10 +287,8 @@
     "lon": 21.180583,
     "izvori": "Биографски текст и подаци о гробном месту достављени од корисника.",
     "fotografija": "assets/licnosti/zivorad-zika-petrovic.jpg",
-    "kategorije": [
-      "privrednici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "assets/grobna-mesta/zivorad-zika-petrovic-grob.jpg",
+    "napomena_fotografije": ""
   },
   {
     "id": "vladimir-sukljevic",
@@ -350,11 +305,8 @@
     "lon": 21.178097,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "umetnici",
-      "prosvetni"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "slobodan-stojanovic",
@@ -371,11 +323,8 @@
     "lon": 21.179204,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "umetnici",
-      "prosvetni"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "milica-stojadinovic-srpkinja",
@@ -392,10 +341,8 @@
     "lon": 21.180326,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "umetnici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "bozidar-dimitrijevic-kozica",
@@ -412,11 +359,8 @@
     "lon": 21.180489,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "oficiri",
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "petar-tamburas",
@@ -433,12 +377,8 @@
     "lon": 21.178906,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "politicari",
-      "privrednici",
-      "dobrotvori"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "glisa-petrovic",
@@ -455,10 +395,8 @@
     "lon": 21.179727,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника; године захтевају проверу.",
     "fotografija": "",
-    "kategorije": [
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "dimitrije-mita-protic",
@@ -475,10 +413,8 @@
     "lon": 21.180061,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "bozidar-boza-tadic",
@@ -495,10 +431,8 @@
     "lon": 21.17949,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "bora-spuzic-kvaka",
@@ -507,18 +441,16 @@
     "zanimanje": "Певач народне музике",
     "zanimanje_lat": "Pevač narodne muzike",
     "godine": "1934–2002",
-    "biografija": "Велибор (Бора) Спужић, познат као Квака, рођен је 10. новембра 1934. године у Ораховцу у Метохији, од оца Тодора и мајке Олге. Био је пето од шесторо деце. Године 1941. породица је морала да напусти Косово и Метохију и преселила се у Ћићевац, а касније у Пожаревац. Као дете је повредио кук, због чега је имао здравствених тешкоћа. Рано је показао интересовање за музику, свирао је хармонику и певао, а наступао је и у КУД-у „Абрашевић“. Надимак Квака постао је његов препознатљиви сценски надимак. Први професионални ангажман имао је у кафани у Великом Градишту, а прву сингл-плочу објавио је 1968. године. Током каријере објавио је 23 сингла, 16 албума и три CD издања. Имао је успоне и падове, а његова популарност се мењала током година. Последњи концерт одржао је 1996. године. Године 1997. доживео је мождани удар, после кога су му били одузети десна страна тела и моћ говора. Према тексту памфлета, у опоравку му је помогла Ханка Палдум, која га је одвела у Сарајево и финансирала лечење. У марту 1998. одржао је хуманитарни концерт у Пожаревцу. Умро је 9. марта 2002. године у болници у Пожаревцу, а два дана касније сахрањен је на Старом гробљу у Пожаревцу, парцела 5, гробно место 128 Н.Б.",
-    "biografija_lat": "Velibor (Bora) Spužić, poznat kao Kvaka, rođen je 10. novembra 1934. godine u Orahovcu u Metohiji, od oca Todora i majke Olge. Bio je peto od šestoro dece. Godine 1941. porodica je morala da napusti Kosovo i Metohiju i preselila se u Ćićevac, a kasnije u Požarevac. Kao dete je povredio kuk, zbog čega je imao zdravstvenih teškoća. Rano je pokazao interesovanje za muziku, svirao je harmoniku i pevao, a nastupao je i u KUD-u „Abrašević“. Nadimak Kvaka postao je njegov prepoznatljivi scenski nadimak. Prvi profesionalni angažman imao je u kafani u Velikom Gradištu, a prvu singl-ploču objavio je 1968. godine. Tokom karijere objavio je 23 singla, 16 albuma i tri CD izdanja. Imao je uspone i padove, a njegova popularnost se menjala tokom godina. Poslednji koncert održao je 1996. godine. Godine 1997. doživeo je moždani udar, nakon koga su mu bili oduzeti desna strana tela i moć govora. Prema tekstu pamfleta, u oporavku mu je pomogla Hanka Paldum, koja ga je odvela u Sarajevo i finansirala lečenje. U martu 1998. održao je humanitarni koncert u Požarevcu. Umro je 9. marta 2002. godine u bolnici u Požarevcu, a dva dana kasnije sahranjen je na Starom groblju u Požarevcu, parcela 5, grobno mesto 128 N.B.",
+    "biografija": "Бора Спужић – Квака, рођен као Велибор Спужић (1934–2002), био је певач народне музике. Рођен је 10. новембра 1934. у Ораховцу, а породица се касније селила у Ћићевац, Земун и Пожаревац. Као дечак је повредио кук, а музицирао је на хармоници и певао у КУД-у „Абрашевић“. Прву плочу објавио је за „Југотон“ 1968. године; касније је објавио бројне синглове, албуме и компакт-дискове. После можданог удара 1997. године уследила је хуманитарна помоћ и концерт у Пожаревцу у марту 1998. Преминуо је 9. марта 2002. године.",
+    "biografija_lat": "Bora Spužić – Kvaka, rođen kao Velibor Spužić (1934–2002), bio je pevač narodne muzike. Rođen je 10. novembra 1934. u Orahovcu, a porodica se kasnije selila u Ćićevac, Zemun i Požarevac. Kao dečak je povredio kuk, a muzicirao je na harmonici i pevao u KUD-u „Abrašević“. Prvu ploču objavio je za „Jugoton“ 1968. godine; kasnije je objavio brojne singlove, albume i kompakt-diskove. Posle moždanog udara 1997. godine usledila je humanitarna pomoć i koncert u Požarevcu u martu 1998. Preminuo je 9. marta 2002. godine.",
     "parcela": "5",
     "grobno_mesto": "128 N.B.",
     "lat": 44.630031,
     "lon": 21.179485,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "umetnici"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "vladan-popovic-sulja",
@@ -535,10 +467,8 @@
     "lon": 21.180384,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "prosvetni"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "dr-sava-dimitrijevic",
@@ -555,10 +485,8 @@
     "lon": 21.180411,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "lekari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "petar-petrika-nikolaevic",
@@ -575,11 +503,8 @@
     "lon": 21.18019,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "privrednici",
-      "politicari"
-    ],
-    "fotografija_groba": ""
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   },
   {
     "id": "aleksandar-s-nikolaevic",
@@ -596,54 +521,7 @@
     "lon": 21.18019,
     "izvori": "Биографија и подаци о гробном месту достављени од корисника.",
     "fotografija": "",
-    "kategorije": [
-      "privrednici",
-      "politicari"
-    ],
-    "fotografija_groba": ""
-  },
-  {
-    "zanimanje": "Трговац извозник, председник општине и добротвор",
-    "zanimanje_lat": "Izvozni trgovac, predsednik opštine i dobrotvor",
-    "godine": "непознато",
-    "grobno_mesto": "Парцела 12, гробно место 38",
-    "parcela": "12",
-    "lat": null,
-    "lon": null,
-    "fotografija": "assets/licnosti/belo-savic-iz-pamfleta.jpeg",
-    "fotografija_groba": "assets/grobna-mesta/Belosavic-grob.jpeg",
-    "izvori": "Памфлет „Стари гробљe у Пожаревцу“, одељак о Илији (Белу) Савићу и Станку Бело Савићу; породична гробница Белосавић, парцела 12, гробно место 38. Dodatak o prilogu crkvi i matičnoj grobnici: податак корисника.",
-    "id": "ilija-belosavic",
-    "ime": "Илија (Бело) Савић",
-    "ime_lat": "Ilija (Belo) Savić",
-    "biografija": "Илија (Бело) Савић био је пожаревачки трговац извозник, представник Либералне странке и учесник либералне политичке активности повезане са Стојаном Рибарцем. Председник пожаревачке општине био је 1895. године. Према памфлету, био је добротвор и приложник удружењу „Слога“, као и дародавац Пожаревцу и Старом гробљу. Породична гробница Белосавић налази се на парцели 12, гробно место 38.",
-    "biografija_lat": "Ilija (Belo) Savić bio je požarevački izvozni trgovac, predstavnik Liberalne stranke i učesnik liberalne političke aktivnosti povezane sa Stojanom Ribarцем. Predsednik požarevačke opštine bio je 1895. godine. Prema pamfletu, bio je dobrotvor i priložnik udruženju „Sloga“, kao i darodavac Požarevcu i Starom groblju. Porodična grobnica Belosavić nalazi se na parceli 12, grobno mesto 38.",
-    "kategorije": [
-      "privrednici",
-      "politicari",
-      "dobrotvori"
-    ]
-  },
-  {
-    "zanimanje": "Трговац извозник, председник општине и добротвор",
-    "zanimanje_lat": "Izvozni trgovac, predsednik opštine i dobrotvor",
-    "godine": "непознато",
-    "grobno_mesto": "Парцела 12, гробно место 38",
-    "parcela": "12",
-    "lat": null,
-    "lon": null,
-    "fotografija": "",
-    "fotografija_groba": "assets/grobna-mesta/Belosavic-grob.jpeg",
-    "izvori": "Памфлет „Стари гробљe у Пожаревцу“, одељак о Илији (Белу) Савићу и Станку Бело Савићу; породична гробница Белосавић, парцела 12, гробно место 38. Dodatak o prilogu crkvi i matičnoj grobnici: податак корисника.",
-    "id": "stanko-belosavic",
-    "ime": "Станко Бело Савић",
-    "ime_lat": "Stanko Belo Savić",
-    "biografija": "Станко Бело Савић био је пожаревачки јавни и политички делатник, члан Либералне странке. Председник пожаревачке општине био је 1907–1908. године. Памфлет га наводи као оснивача Пожаревачке читаонице и стрељачког друштва. Према податку који је доставио корисник, браћа Белосавић била су значајни приложници цркви и Старом гробљу, укључујући прилог за матичну гробницу. Породична гробница Белосавић налази се на парцели 12, гробно место 38.",
-    "biografija_lat": "Stanko Belo Savić bio je požarevački javni i politički delatnik, član Liberalne stranke. Predsednik požarevačke opštine bio je 1907–1908. godine. Pamflet ga navodi kao osnivača Požarevačke čitaonice i streljačkog društva. Prema podatku koji je dostavio korisnik, braća Belosavić bila su značajni priložnici crkvi i Starom groblju, uključujući prilog za matičnu grobnicu. Porodična grobnica Belosavić nalazi se na parceli 12, grobno mesto 38.",
-    "kategorije": [
-      "privrednici",
-      "politicari",
-      "dobrotvori"
-    ]
+    "fotografija_groba": "",
+    "napomena_fotografije": ""
   }
 ]
